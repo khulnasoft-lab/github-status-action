@@ -1,7 +1,7 @@
 # dependencies for fetch.py and analyze.py
 pandas==2.1.2
 PyGitHub==2.1.1
-altair==5.1.2
+altair==5.2.0
 pytz
 retrying
 carbonplan[styles]
